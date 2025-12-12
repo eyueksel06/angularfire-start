@@ -1,12 +1,10 @@
 export const environment = {
   firebase: {
-    apiKey: 'API_KEY',
-    authDomain: 'PROJECT_ID.firebaseapp.com',
-    databaseURL: 'https://PROJECT_ID.firebaseio.com',
-    projectId: 'PROJECT_ID',
-    storageBucket: 'PROJECT_ID.appspot.com',
-    messagingSenderId: 'SENDER_ID',
-    appId: 'APP_ID',
-    measurementId: 'G-MEASUREMENT_ID',
+    apiKey: "AIzaSyDEOElhj4BjVLV1KDw-gkgOIi-CFs8c_sg",
+    authDomain: "friendlychat-81.firebaseapp.com",
+    projectId: "friendlychat-81",
+    storageBucket: "friendlychat-81.firebasestorage.app",
+    messagingSenderId: "401541735108",
+    appId: "1:401541735108:web:4451aea83c8a0668125f91"
   },
 };
